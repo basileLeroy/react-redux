@@ -31,7 +31,7 @@ const App = () => {
         <input type="submit" value="Submit" />
       </form>
     </div>
-  );
+  )
 }
 
 export default App;
